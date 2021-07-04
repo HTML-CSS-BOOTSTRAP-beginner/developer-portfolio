@@ -21,7 +21,7 @@ p {
 
 .flex_container {
   display: flex;
-  margin-bottom: 150px;
+    margin-bottom: 50px;
 }
 
 .half-width {
@@ -57,14 +57,16 @@ p {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    margin-bottom: 150px;
 }
 
 .exprience-item {
-  width: 40%;
-  margin-left: 5%;
-  margin-right: 5%;
+  width: 50%;
+  margin-left: 3%;
+  margin-right: 3%;
   padding-left: 25px;
   padding-right: 25px;
+  padding-bottom: 80px;
   border-radius: 10px;
   box-shadow: 10px 10px 40px gray;
 
